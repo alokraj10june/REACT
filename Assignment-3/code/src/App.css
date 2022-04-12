@@ -67,6 +67,7 @@ input{
     margin-top:25px ;
     margin-right:25px;
     padding: 10px 10px;
+    cursor: pointer;
 }
 .Order{
     display: flex;
